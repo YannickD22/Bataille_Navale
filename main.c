@@ -7,7 +7,7 @@
 #define CROISEURID 3
 #define TORPILLEURID 2
 #define SOUSMARINID 1
-
+ //Test modification
 void waitFor (unsigned int secs){
 
     unsigned int retTime = time(0) + secs;
