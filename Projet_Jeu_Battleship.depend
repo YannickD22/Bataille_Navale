@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476363089 source:c:\program files (x86)\codeblocks\mingw\projet_jeu_battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
